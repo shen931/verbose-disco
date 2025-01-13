@@ -1,11 +1,10 @@
-# GRAF
+
 
 <div style="text-align: center">
 <img src="animations/carla_256.gif" width="512"/><br>
 </div>
 
-This repository contains official code for the paper
-[GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://avg.is.tuebingen.mpg.de/publications/schwarz2020neurips).
+
 
 You can find detailed usage instructions for training your own models and using pre-trained models below.
 
